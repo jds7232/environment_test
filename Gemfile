@@ -46,6 +46,8 @@ group :development do
   gem 'spring'
 
   gem 'rspec-rails'
+
+  gem 'brakeman'
 end
 
 group :test do
