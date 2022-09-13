@@ -20,7 +20,7 @@ default: &default
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  host: localhost
+  host: ec2-44-195-162-77.compute-1.amazonaws.com
   username: <%=ENV['wpminmynbahaqu'] %>
   password: <%=ENV['58a2227993b3ca30b5fcd1e71b0c227ef0dff3a89a7144db76cac3f3016684b1'] %>
 
