@@ -1,11 +1,14 @@
 {
   "RSpec": {
     "coverage": {
-      "/csce431/spec/feature/integration_spec.rb": {
+      "/csce431/spec/feature/author_integration_spec.rb": {
         "lines": [
           null,
           1,
           null,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -352,6 +355,7 @@
         "lines": [
           1,
           1,
+          1,
           null,
           null
         ]
@@ -368,7 +372,64 @@
           null
         ]
       },
-      "/csce431/spec/unit/unit_spec.rb": {
+      "/csce431/spec/feature/integration_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/csce431/spec/feature/pdate_integration_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/csce431/spec/feature/price_integration_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/csce431/spec/unit/author_unit_spec.rb": {
         "lines": [
           null,
           1,
@@ -393,6 +454,9 @@
         "lines": [
           1,
           1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -403,6 +467,69 @@
           null
         ]
       },
+      "/csce431/spec/unit/pdate_unit_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/csce431/spec/unit/price_unit_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/csce431/spec/unit/unit_spec.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/csce431/app/controllers/books_controller.rb": {
         "lines": [
           1,
@@ -410,7 +537,7 @@
           null,
           null,
           1,
-          1,
+          4,
           null,
           null,
           null,
@@ -419,7 +546,7 @@
           null,
           null,
           1,
-          1,
+          4,
           null,
           null,
           null,
@@ -428,12 +555,12 @@
           null,
           null,
           1,
-          1,
+          4,
           null,
-          1,
-          1,
-          2,
-          1,
+          4,
+          4,
+          8,
+          4,
           null,
           0,
           0,
@@ -467,12 +594,12 @@
           1,
           null,
           1,
-          1,
+          4,
           null,
           null,
           null,
           1,
-          1,
+          4,
           null,
           null
         ]
@@ -484,6 +611,6 @@
         ]
       }
     },
-    "timestamp": 1662740923
+    "timestamp": 1662828935
   }
 }
